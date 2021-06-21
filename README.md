@@ -11,4 +11,3 @@ After clone this repository, you must install the node_modules folder with the c
 ```
 npm install
 ```
-![Party](https://media.giphy.com/media/DhstvI3zZ598Nb1rFf/source.gif)
